@@ -102,7 +102,7 @@
 </location>
 <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="false" type="InstallableUnit">
 <unit id="LIMBO_DLIM.feature.group" version="0.16.1.201606230914"/>
-<repository location="https://se2.informatik.uni-wuerzburg.de/eclipse/limbo/"/>
+<repository location="http://se2.informatik.uni-wuerzburg.de/eclipse/limbo/"/>
 </location>
 <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="false" type="InstallableUnit">
 <unit id="org.apache.commons.lang3" version="3.1.0.v201403281430"/>
