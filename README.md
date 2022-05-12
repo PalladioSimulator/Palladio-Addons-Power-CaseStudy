@@ -1,4 +1,11 @@
 # Palladio-Addons-Power-CaseStudy
+
+***Archived due to:***
+* *Main developer not active in this organization*
+* *No dependencies to other projects*
+* *Not used by others in this organization*
+* *No active development since 2017*
+
 You can use the resources to train and evaluate the power models considered in the evaluation. 
 To import measurement run results, open one of the *.mapping models. 
 Before loading them, make sure that the Csv File Uri of all Metric To Csv Mapping String point towards the folders and files where you stored the aforementioned Evaluation results. 
